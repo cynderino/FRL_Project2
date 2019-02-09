@@ -1,0 +1,16 @@
+.box {
+    background-color: black
+}
+
+#map,
+body,
+html {
+  height: 100%;
+  padding: 10px;
+  border: 10px;
+  margin: 20px;
+  position: absolute;
+}
+
+
+
